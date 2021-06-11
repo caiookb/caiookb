@@ -1,6 +1,6 @@
 ### 👋 Hello World!
 
-Hi, I'm Caio, a software engineer who loves coding and all its technologies. I'm from Brazil, living in Recife and currently working at Moodar. 
+Hi, I'm Caio, a software engineer who loves coding and all its technologies. I'm from Brazil, living in Recife and currently working at SiDi. 
 
 ## 🔧 Technologies 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=141321)
